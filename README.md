@@ -89,3 +89,9 @@ Other key files:
 ## 📄 License
 
 MIT
+
+---
+
+## Acknowledgements
+
+This theme is based in part on [Air-light](https://github.com/digitoimistodude/air-light), a minimalist WordPress starter theme by Digitoimisto Dude Oy, licensed under the MIT License.

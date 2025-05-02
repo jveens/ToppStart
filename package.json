@@ -1,5 +1,5 @@
 {
-  "name": "toppstart-theme",
+  "name": "toppstart",
   "version": "1.0.0",
   "scripts": {
     "build:scss": "sass --style=expanded --source-map src/scss/style.scss build/css/style.css && sass --style=expanded --source-map src/scss/admin.scss build/css/admin.css && postcss build/css/*.css --use autoprefixer -d build/css",
